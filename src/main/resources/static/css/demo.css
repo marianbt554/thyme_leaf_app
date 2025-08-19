@@ -1,0 +1,7 @@
+.schimba-culoarea{
+    font-style: italic;
+    color: lawngreen;
+    background-color: brown;
+    font-size: xxx-large;
+    animation: alternate-reverse;
+}
